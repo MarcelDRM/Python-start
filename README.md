@@ -1,2 +1,2 @@
 # Python-start
-A short guess game
+Some short games and apps,learning Python
